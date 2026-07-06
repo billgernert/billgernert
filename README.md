@@ -2,7 +2,7 @@
 
 I've had a passion for IT and technology my whole life. Automation, innovation, and novel concepts are what genuinely excite me. I'm the person on the team who figures things out, improves the workflow, and builds the automation nobody else wants to tackle.
 
-I'm a Senior IT Infrastructure Engineer with over 15 years across Windows, Active Directory, and virtualization, including five years running a Jenkins platform as the CI/CD backbone for my team. I came up the way a lot of infrastructure folks do: I started in PowerShell, moved into Python, then Groovy, and grew into platform engineering from there.
+I'm a Senior IT Infrastructure Engineer with over 15 years experience across Windows, Active Directory, and virtualization, including five years running a Jenkins platform as the CI/CD backbone for my team. I came up the way a lot of infrastructure folks do: I started in PowerShell, moved into Python, then Groovy, and grew into platform engineering from there.
 
 I love being the SME, and I love showing people how things work. I write my documentation so that anyone can pick it up and understand it. No assumed context, no hand-waving. If I can't explain something simply, I take that as a sign I don't understand it well enough yet.
 
