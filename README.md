@@ -1,4 +1,3 @@
-cat > /tmp/billgernert-profile/README.md << 'EOF'
 ### Hi, I'm Bill 👋
 
 I've had a passion for IT and technology my whole life. Automation, innovation, and novel concepts are what genuinely excite me. I'm the person on the team who figures things out, improves the workflow, and builds the automation nobody else wants to tackle.
